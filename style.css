@@ -1,0 +1,67 @@
+#img-perfil{
+    width: 150px;
+}
+#img-stack{
+    width: 200px;
+}
+.bg-primary{
+    background-color: #fd9843!important;
+}
+.nav-link{
+    color: #653208!important;
+}
+.text-bg-primary{
+    background-color: #fd9843!important;
+}
+.btn-primary{
+    background-color: #fd9843!important;
+}
+.titulo-proyecto{
+    text-shadow: 2px 2px 1px  #000000;
+}
+#proyecto-1{
+    background-image: url(https://th.bing.com/th/id/OIP.HktuUuJk99FFFIwz3ACzrQHaDm?pid=ImgDet&rs=1);
+}
+#proyecto-2{
+    background-image: url(https://th.bing.com/th/id/OIP.FpopVSbyrjajDD4WnJro2wHaEz?pid=ImgDet&w=600&h=389&rs=1);
+}
+
+#proyecto-3{
+    background-image: url(https://miro.medium.com/max/4238/1*yx3WaQRJP2emIp389H5-8w.jpeg);
+}
+
+#proyecto-4{
+    background-image: url(https://th.bing.com/th/id/R.49a0b8bdaa64209c47f36c8a375561cc?rik=UC4A9A5jwfg5mA&pid=ImgRaw&r=0);
+}
+
+#proyecto-5{
+    background-image: url();
+}
+
+#proyecto-6{
+    background-image: url();
+}
+
+.carousel-item{
+    height: 400px;
+}
+.carousel-indicators [data-bs-target]{
+    background-color: #fd9843;
+    height: 5px;
+}
+.carousel-caption{
+    color: black;
+}
+.icono{
+    width: 50px;
+}
+.bi-github{
+font-size: 2rem;
+color: white;
+margin: 12px;
+}
+
+.bi{
+    color: white;
+    margin: 8px;
+}
