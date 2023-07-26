@@ -14,14 +14,14 @@ Tambien tiene una seccion de almacenamiento de archivos(imagenes) que nos permit
 
 Esta pagina fue creada con:
 
-*HTML 5
-*CSS 3
-*Javascript
-*Bootstrap
+* HTML 5
+* CSS 3
+* Javascript
+* Bootstrap
 
 Ademas se incluyen *Google Fonts*.
 
 ## Español
-El texto de la pagina 
+El texto de la pagina fue escrito por completo en español
 ## Contactos
-Desarrollado por: Montserrat Castillo Jimenez en **Tecnolochicas PRO Summer Camp** [Montserrat Castillo](Link)
+Desarrollado por: Montserrat Castillo Jimenez en **Tecnolochicas PRO Summer Camp** [Montserrat Castillo](https://www.linkedin.com/in/montserrat-castillo-jiménez-691598285)
